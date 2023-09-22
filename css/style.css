@@ -78,7 +78,7 @@
 
 body {
   background-color: #182d64;
-  font-family: 'Roboto Mono';
+  font-family: 'Roboto Mono',monospace;
 }
 
 h1 {
