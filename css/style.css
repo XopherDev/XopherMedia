@@ -78,6 +78,12 @@
 
 body {
   background-color: #182d64;
+  font-family: 'Roboto Mono';
+}
+
+h1 {
+  font-family:'Rubik';
+  font-weight: bold;
 }
 
 .img-responsive {
