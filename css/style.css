@@ -30,16 +30,16 @@
 
 
 
-.portfolioImages {
+.lazy {
   width:700px;
 }
 
 
 @media (max-width: 1200px) {
-  .portfolioImages { width:500px; }
+  .lazy { width:500px; }
 }
 @media (max-width: 800px) {
-  .portfolioImages { width:310px; }
+  .lazy { width:310px; }
 }
 
 
@@ -78,7 +78,7 @@
 
 body {
   background-color: #182d64;
-  font-family: 'Roboto Mono',monospace;
+  font-family: 'Roboto Mono',monospace,sans-serif;
 }
 
 h1 {
